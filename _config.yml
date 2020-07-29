@@ -2,11 +2,11 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Chonky code FTW
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://xyneth.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
@@ -14,9 +14,9 @@ baseurl: "/duo/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "xyneth"
 author:
-  twitter: "chibicode"
+  twitter: "xyneth"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
