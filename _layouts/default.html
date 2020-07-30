@@ -66,13 +66,6 @@
             Tweet</a>
           </p>
           {{content}}
-          {% if page.date %}
-            <p class="silver">
-              <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{page.date | date: site.date_format }}
-              </time>
-            </p>
-          {% endif %}
         </section>
         <hr />
         <section class="pv2">

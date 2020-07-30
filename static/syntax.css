@@ -76,3 +76,8 @@
 .highlight .ss {
   color: #859900;
 }
+
+pre {
+    background-color: #fff0f4;
+    color: #fb6f99;
+}
