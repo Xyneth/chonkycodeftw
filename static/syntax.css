@@ -80,9 +80,11 @@
 pre {
     background-color: #fff0f4;
     color: #fb6f99;
+    font-family: 'Fira Code', monospace;
 }
 
 code {
     background-color: #fff0f4;
     color: #fb6f99;
+    font-family: 'Fira Code', monospace;
 }
