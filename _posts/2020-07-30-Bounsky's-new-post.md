@@ -47,7 +47,7 @@ def function(x, y):
     elif x < y:
         print(f"{y} is larger than {x}")
     else:
-        print(f"{x} is equals than {y}")
+        print(f"{x} equals {y}")
 {% endhighlight %}
 {% endraw %}
 {% endhighlight %}
