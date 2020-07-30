@@ -12,6 +12,9 @@ url: "https://xyneth.github.io"
 # Then write "/bar/". Otherwise, remove this line.
 baseurl: "/duo/"
 
+# Code higlighter
+highlighter: rouge
+
 # Twitter IDs
 twitter:
   username: "xyneth"
@@ -32,7 +35,7 @@ defaults:
 #
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "amber-400"
+brand_color: "pink-100"
 
 # How article URLs are structured.
 # See: https://jekyllrb.com/docs/permalinks/
