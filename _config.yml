@@ -51,7 +51,7 @@ lang: "en"
 num_posts_visible_initially: 5
 
 # Date format: See http://strftime.net/
-date_format: "%b %-d, %Y"
+date_format: "%b %-d, %Y at %l:%M %P"
 # ----------------------------------------------------------------------------
 
 exclude:
